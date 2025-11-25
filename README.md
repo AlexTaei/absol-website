@@ -1,7 +1,7 @@
 # absol-website
 
 ## Running React
-cd ./absol-website/react-absol/ && npm start
+In terminal run <code>cd ./absol-website/react-absol/ && npm start</code>.  
 then navigate to http://localhost:3000
 
 ## Collaborative links
